@@ -1,0 +1,5 @@
+require 'chef/resource/sleep_timer'
+require 'chef/provider/sleep_timer'
+require 'chef/resource/zookeeper_lock'
+require 'chef/provider/zookeeper_lock'
+require 'chef_orchestrator_zk/recipe_dsl'
